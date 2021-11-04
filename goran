@@ -1,13 +1,55 @@
 #EXTM3U
-#EXTINF:-1,Bein Premium 1 HD
-http://viewplayer.ip1v.com:25461/maan/test/22
-#EXTINF:-1,bein sports pr 2 HD
-http://viewplayer.ip1v.com:25461/maan/test/23
-#EXTINF:-1,bein sports pr 3 HD
-http://viewplayer.ip1v.com:25461/maan/test/24
-#EXTINF:-1,bein sports 1 HD
-http://viewplayer.ip1v.com:25461/maan/test/25
-#EXTINF:-1,bein sports 2 HD
-http://viewplayer.ip1v.com:25461/maan/test/26
-#EXTINF:-1,bein sports 3 HD
-http://viewplayer.ip1v.com:25461/maan/test/27
+#EXTINF:-1,beIN Sports 1 Premium HD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/1
+#EXTINF:-1,beIN Sport 2 Premium HD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/2
+#EXTINF:-1,beIN Sports 3 Premium HD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/3
+#EXTINF:-1,beIN Sports 1 HD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/4
+#EXTINF:-1,beIN Sports 2 HD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/5
+#EXTINF:-1,beIN Sports 3 HD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/6
+#EXTINF:-1,beIN Sports 4 HD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/7
+#EXTINF:-1,beIN Sport HD 5
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/8
+#EXTINF:-1,beIN Sport HD 6
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/9
+#EXTINF:-1,beIN Sport HD 7
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/10
+#EXTINF:-1,beIN News
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/11
+#EXTINF:-1,BEIN SPORTS GLOBAL
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/12
+#EXTINF:-1,BEIN SPORTS FRA 1
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/13
+#EXTINF:-1,BEIN SPORTS FRA 2
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/14
+#EXTINF:-1,BEIN SPORTS FRA 3
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/15
+#EXTINF:-1,BEIN EXTRA 1
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/16
+#EXTINF:-1,BEIN EXTRA 2
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/17
+#EXTINF:-1,beIN Sport 1 Premium SD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/18
+#EXTINF:-1,beIN Sport 2 Premium SD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/19
+#EXTINF:-1,beIN Sport 3 Premium SD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/20
+#EXTINF:-1,beIN Sports 1 SD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/21
+#EXTINF:-1,beIN Sports 2 SD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/22
+#EXTINF:-1,bein Sport 3 SD
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/23
+#EXTINF:-1,beIN Sport SD 4
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/24
+#EXTINF:-1,beIN Sport SD 5
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/25
+#EXTINF:-1,Bein Sports PR 1 Low
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/26
+#EXTINF:-1,Bein Sports PR 2 Low
+http://www.aloka-khraistv.com:8080/beinnow/alokatv/27
